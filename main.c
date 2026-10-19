@@ -14,7 +14,7 @@ int main(void) {
     double a ;
     scanf ("%lf",&x);
     a = (x*360.0)/(4.0*pi);
-    print ("%f\n",a);
+    printf ("%f\n",a);
 
     return 0;
 }
